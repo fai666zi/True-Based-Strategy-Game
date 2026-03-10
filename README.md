@@ -18,6 +18,7 @@ Start screen with rules and icon selection
 
 Game over screen with Restart or Exit buttons
 
+######################################################################################################
 
 
 📌 How the Game Works
@@ -48,6 +49,7 @@ If all enemy HP reaches 0 → player wins.
 
 Restart or Exit options appear.
 
+######################################################################################################
 
 
 ⚙️ Design Decisions
@@ -64,6 +66,7 @@ Game Engine Separation:
 
 game_engine.py handles all logic, keeping main.py clean and focused on the interface / game loop.
 
+######################################################################################################
 
 💻 How to Run
 
